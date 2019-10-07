@@ -1,4 +1,4 @@
-# Gittask
+# Future Pet Test
 
 To start your Phoenix app:
 
